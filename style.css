@@ -1,0 +1,9 @@
+body{
+  background-color: #000054;
+}
+h1{
+  font-family: fantasy; Stencil Std;
+  color:yellow;
+  -webkit-text-stroke-width: 2.5px;
+    -webkit-text-stroke-color: black;
+}
